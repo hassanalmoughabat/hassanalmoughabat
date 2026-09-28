@@ -1,4 +1,7 @@
-## Hi, I'm Hassan 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Hassan Al Moughabat — 42 Beirut. An animated map of my projects, from libft at the centre out to Mosaic." src="assets/banner-light.svg" width="100%">
+</picture>
 
 I'm a software engineering student at **42 Beirut**. I write C and C++ close to the metal, and I build full-stack apps in TypeScript, Java and Go.
 
@@ -9,6 +12,7 @@ I'm a software engineering student at **42 Beirut**. I write C and C++ close to 
 | Project | What it is | Stack |
 |---|---|---|
 | **Masroof** مصروف | USD / LBP expense tracker for Lebanon: several wallets, the exchange rate saved on every transaction, English and Arabic, web + Android | React · TanStack · NestJS · Prisma · PostgreSQL · Capacitor |
+| [**Sahtak Beldene**](https://github.com/hassanalmoughabat/sahtak_bel_dene-frontend) *(in progress)* | Healthcare platform connecting patients, doctors and clinics: booking, visits, prescriptions | React · TypeScript · Zustand · Capacitor |
 | [**Cerebro**](https://github.com/hassanalmoughabat/Cerebro) | Mind-mapping app with an interactive canvas and AI idea generation | React · ReactFlow · Express · PostgreSQL · Drizzle |
 | [**ArcVault triage**](https://github.com/hassanalmoughabat/Arc-Vault-Assessment) | AI intake pipeline: the LLM classifies, then plain code routes and escalates each message as structured JSON | n8n · LLM · Python |
 | [**LaserCraft**](https://github.com/hassanalmoughabat/Laset_Cutt) | Storefront for custom laser-cut products, with a Fabric.js image customizer | React · TypeScript · Fabric.js · Tailwind |
